@@ -49,7 +49,7 @@ docker push mydockerhub/mynginx:v1
 ```
 Now we go to Arvan cloud container and complete the relevant section according to the image.
 
-![Alt text](image.png)
+![Alt text](https://github.com/amin1374/arvan-container-reverse-proxy/blob/main/pictures/image.png)
 
 Then continue all the steps with the default settings and there is no need to make any changes.
 
@@ -58,3 +58,4 @@ The point in this method is that there is no need to have a dedicated domain or 
 
 Now all the work on Arvan's side is done, we are going to make the connection in the x-ui panel
 
+![Alt text](https://github.com/amin1374/arvan-container-reverse-proxy/blob/main/pictures/x-ui.png)
